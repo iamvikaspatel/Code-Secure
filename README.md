@@ -1,4 +1,4 @@
-# Security Scanner
+# Teminal Based Security Scanner
 
 ![Security Scanner](./public/security_scanner.png)
 
