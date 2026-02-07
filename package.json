@@ -1,0 +1,18 @@
+{
+  "name": "securityscanner",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun run src/cli.ts",
+    "build": "bun build src/cli.ts --compile --outfile securityscanner",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "@types/bun": "^1.3.8",
+    "@types/node": "^25.2.1",
+    "cli-truncate": "^5.1.1",
+    "gray-matter": "^4.0.3",
+    "yaml": "^2.4.2"
+  }
+}

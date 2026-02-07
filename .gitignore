@@ -1,0 +1,4 @@
+skillguard
+*.log
+node_modules
+securityscanner
